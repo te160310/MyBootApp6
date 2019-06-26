@@ -1,4 +1,4 @@
-package jp.te4a.spring.boot.myapp9;
+package jp.te4a.spring.boot.myapp11;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
